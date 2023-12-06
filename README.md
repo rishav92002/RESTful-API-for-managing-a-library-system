@@ -10,7 +10,7 @@ This project is a simple RESTful API for managing a library system. It interacts
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/library-system-api.git
+   git clone https://github.com/rishav92002/RESTful-API-for-managing-a-library-system/tree/master
 2. install dependencies
    ```bash
    npm install
